@@ -6,4 +6,4 @@ A club at my school was having trouble getting notifications out to specific mem
 
 Then, the app can send out notifications through Discord, alerting only the members who are supposed to go to that event.
 
-![annoucement](https://github.com/Arcane-Panda/CompSci-IA/blob/master/annoucement.png)
+![annoucement](https://github.com/Arcane-Panda/CompSci-IA/blob/master/announcement.png)
